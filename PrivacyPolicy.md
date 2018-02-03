@@ -77,6 +77,13 @@ These Services do not address anyone under the age of 13. I do not knowingly col
                     under 13 has provided me with personal information, I immediately delete this from
                     our servers. If you are a parent or guardian and you are aware that your child has provided us with personal
                     information, please contact me so that I will be able to do necessary actions.
+                    
+**about app Permissions**
+
+This application uses memory access to store and retrieve maps, uses the phones location to display your location in the map application ,GET_ACCOUNTS access is only for sending program errors to your email so that after feedback, feedback will be notified to your email and will not be used at all.
+این برنامه از دسترسی حافظه برای ذخیره و بازیابی نقشه ها استفاده می کند، از موقعیت مکانی گوشی جهت نمایش موقعیت جغرافیایی شما در نقشه برنامه استفاده می کند دسترسی 
+GET_ACCOUNTS
+فقط برای ارسال خطاهای برنامه  به ایمیل شما می باشد، تا بعد از بررسی خطا بازخورد آن به ایمیل شما اطلاع رسانی شود و هیچ گونه استفاده دیگری ندارد.
 
 **Changes to This Privacy Policy**
 
